@@ -12,3 +12,13 @@ Run the script
 - Create `data.yml` file 
 - Split train, val, test by ratio 80:10:10
 - Statistic on dataset
+## Setup
+Install the packages
+```
+chmod +x setup.sh
+./setup.sh
+```
+Download the `dataset.yml` and place it at the root directory
+```
+python download_data.py
+```
