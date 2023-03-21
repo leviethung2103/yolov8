@@ -1,8 +1,7 @@
 ## Train Object Detection with Yolov8
 
-
 ## Download dataset
-
+Unzip the dataset zip file and place inside `datasets` folder
 
 ## Convert CVAT -> YOLO
 1.Create_Dataset_From_Yolo
@@ -12,6 +11,7 @@ Run the script
 - Create `data.yml` file 
 - Split train, val, test by ratio 80:10:10
 - Statistic on dataset
+
 ## Setup
 Install the packages
 ```
