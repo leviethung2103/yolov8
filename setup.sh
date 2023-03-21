@@ -1,6 +1,6 @@
 #!/bin/bash
 # Install the libraries ....
-apt-get update 
-apt-get install htop libgl1
+apt-get update -y
+apt-get install htop libgl1 -y
 pip install gdown nano
-apt-get install -y wget; wget https://raw.githubusercontent.com/vast-ai/vast-python/master/vast.py -O vast; chmod +x vast;∆
+apt-get install -y wget
