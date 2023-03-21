@@ -22,3 +22,6 @@ Download the `dataset.yml` and place it at the root directory
 ```
 python download_data.py
 ```
+
+
+![Alt text](images/2023-03-22_00-28.png)
