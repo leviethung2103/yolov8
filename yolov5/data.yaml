@@ -1,0 +1,8 @@
+names:
+- lao
+- vn_1_line
+- vn_2_line
+nc: 3
+test: LPD_LAO_ChienKhuong_21-03-2023_v1.0/test/images
+train: LPD_LAO_ChienKhuong_21-03-2023_v1.0/train/images
+val: LPD_LAO_ChienKhuong_21-03-2023_v1.0/val/images
