@@ -23,5 +23,9 @@ Download the `dataset.yml` and place it at the root directory
 python download_data.py
 ```
 
+## Train Yolov5 
+1. Download dataset and unzip inside the `yolov5` folder
+2. 
+
 
 ![Alt text](images/2023-03-22_00-28.png)
